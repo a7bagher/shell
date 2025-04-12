@@ -58,4 +58,4 @@ touch ./data/inventory.txt
 ls -R ./data/processed > ./data/inventory.txt
 
 echo "Project setup is complete!"
-# I did it!
+# I did it
